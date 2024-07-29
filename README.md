@@ -18,3 +18,4 @@
 |2024-06-27|[HSE Introductory Instruction](files/Document%20submission%20instruction%20Updated%20(1).pdf)|Google Forms|2024-06-12||
 |2024-07-15|Verified final transcript submission deadline||||
 |2024-07-22|Invitation to Orientation Week 2024||||
+|2024-07-29|Signing an Agreement||||
