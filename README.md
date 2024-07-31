@@ -4,7 +4,7 @@
 |:-:|:-:|:-:|:-:|:-:|
 ||IELTS results|Online application form||2023-11-12|
 |2024-02-17|NU SEDS OPEN HOUSE DAY||||
-|2024-05-21|Application deadline||||
+|2024-04-25|[Application deadline](https://nu.edu.kz/admissions/announcement/the-extension-of-the-deadline-for-submitting-online-applications-for-some-master-s-and-phd-programs-for-citizens-of-the-republic-of-kazakhstan)||||
 |2024-05-29|Invitation to an online interview||||
 |2024-05-30|Online interview||||
 |2024-06-20|Admissions Committee Decision||||
